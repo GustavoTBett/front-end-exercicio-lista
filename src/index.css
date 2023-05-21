@@ -9,3 +9,15 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
 }
+
+.lista {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.botaoes{
+  display: flex;
+  gap: 5px;
+  padding-right: 32px;
+}
